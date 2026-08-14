@@ -1,0 +1,757 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "How To Secure A Linux Server",
+          "description": "for a single Linux server at home",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-13T18:25:52Z",
+            "owner": "imthenachoman",
+            "repo": "How-To-Secure-A-Linux-Server",
+            "stars": 30277
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "trimstray - The Practical Linux Hardening Guide",
+          "description": "practical step-by-step instructions for building your own hardened systems and services. Tested on CentOS 7 and RHEL 7.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-11-19T14:02:37Z",
+            "owner": "trimstray",
+            "repo": "the-practical-linux-hardening-guide",
+            "stars": 10809
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neo23x0/auditd",
+          "description": "Best Practice Auditd Configuration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-05-04T12:02:04Z",
+            "owner": "Neo23x0",
+            "repo": "auditd",
+            "stars": 1887
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "trimstray - Linux Hardening Checklist",
+          "description": "most important hardening rules for GNU/Linux systems (summarized version of The Practical Linux Hardening Guide)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-11-19T14:00:13Z",
+            "owner": "trimstray",
+            "repo": "linux-hardening-checklist",
+            "stars": 1644
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "trimstray - Iptables Essentials: Common Firewall Rules and Commands",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-11-19T13:59:50Z",
+            "owner": "trimstray",
+            "repo": "iptables-essentials",
+            "stars": 1590
+          }
+        }
+      ],
+      "title": "GNU/Linux"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Windows Domain Hardening",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-01-07T19:56:18Z",
+            "owner": "PaulSec",
+            "repo": "awesome-windows-domain-hardening",
+            "stars": 1796
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NSA - Event Forwarding Guidance",
+          "description": "Configuration guidance for implementing collection of security relevant Windows Event Log events by using Windows Event Forwarding",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2020-11-17T17:25:51Z",
+            "owner": "nsacyber",
+            "repo": "Event-Forwarding-Guidance",
+            "stars": 890
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NSA - AppLocker Guidance",
+          "description": "Configuration guidance for implementing application whitelisting with AppLocker",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2025-10-31T14:38:01Z",
+            "owner": "nsacyber",
+            "repo": "AppLocker-Guidance",
+            "stars": 244
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NSA - Pass the Hash Guidance",
+          "description": "Configuration guidance for implementing Pass-the-Hash mitigations (Archived)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PowerShell",
+            "last_commit": "2016-11-25T13:48:20Z",
+            "owner": "nsacyber",
+            "repo": "Pass-the-Hash-Guidance",
+            "stars": 201
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NSA - BitLocker Guidance",
+          "description": "Configuration guidance for implementing disk encryption with BitLocker",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2019-07-24T12:37:17Z",
+            "owner": "nsacyber",
+            "repo": "BitLocker-Guidance",
+            "stars": 130
+          }
+        }
+      ],
+      "title": "Windows"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Services"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "VPS Security Audit Script",
+          "description": "A comprehensive Bash script for auditing the security and performance of your VPS (Virtual Private Server)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-10T11:12:59Z",
+            "owner": "nuver-labs",
+            "repo": "vps-audit",
+            "stars": 2482
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SUDO_KILLER",
+          "description": "A tool to identify sudo rules' misconfigurations and vulnerabilities within sudo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-03-11T14:40:44Z",
+            "owner": "TH3xACE",
+            "repo": "SUDO_KILLER",
+            "stars": 2479
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CIS Debian Hardening",
+          "description": "Modular Debian 11/12/13 security hardening scripts based on CIS Benchmarks recommendations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-13T22:12:29Z",
+            "owner": "ovh",
+            "repo": "debian-cis",
+            "stars": 1049
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "otseca",
+          "description": "Open source security auditing tool to search and dump system configuration. It allows you to generate reports in HTML or RAW-HTML formats.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-11-19T14:05:19Z",
+            "owner": "trimstray",
+            "repo": "otseca",
+            "stars": 522
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CIS Benchmarks Audit",
+          "description": "bash script which performs tests against your CentOS system to give an indication of whether the running server may comply with the CIS v2.2.0 Benchmarks for CentOS (only CentOS 7 for now)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-03T01:19:01Z",
+            "owner": "finalduty",
+            "repo": "cis-benchmarks-audit",
+            "stars": 276
+          }
+        }
+      ],
+      "title": "GNU/Linux"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "HardeningAuditor",
+          "description": "Scripts for comparing Microsoft Windows compliance with the Australian ASD 1709 & Office 2016 Hardening Guides",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2019-12-20T01:49:28Z",
+            "owner": "cottinghamd",
+            "repo": "HardeningAuditor",
+            "stars": 159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MDE-AuditCheck",
+          "description": "Tool to check that Windows audit settings are properly configured in the GPO for Microsoft Defender for Endpoint",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2022-07-15T09:29:21Z",
+            "owner": "olafhartong",
+            "repo": "MDE-AuditCheck",
+            "stars": 101
+          }
+        }
+      ],
+      "title": "Windows"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "testssl.sh",
+          "description": "Testing TLS/SSL encryption anywhere on any port",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-12T00:23:08Z",
+            "owner": "testssl",
+            "repo": "testssl.sh",
+            "stars": 9162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SSLyze",
+          "description": "Fast and powerful SSL/TLS scanning library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-29T13:13:16Z",
+            "owner": "nabla-c0d3",
+            "repo": "sslyze",
+            "stars": 3770
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Qualys SSL Labs - List of tools to assess TLS/SSL servers and clients",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-03-14T06:24:28Z",
+            "owner": "ssllabs",
+            "repo": "research",
+            "stars": 2207
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CryptoLyzer",
+          "description": "Fast, flexible and comprehensive server cryptographic protocol (TLS, SSL, SSH, DNSSEC) and related setting (HTTP headers, DNS records) analyzer and fingerprint (JA3, HASSH tag) generator with Python API and CLI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-31T09:07:25Z",
+            "owner": "c0r0n3r",
+            "repo": "cryptolyzer",
+            "stars": 48
+          }
+        }
+      ],
+      "title": "TLS/SSL"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ssh-audit",
+          "description": "SSH server auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-28T23:48:45Z",
+            "owner": "arthepsy",
+            "repo": "ssh-audit",
+            "stars": 2995
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CryptoLyzer",
+          "description": "Fast, flexible and comprehensive server cryptographic protocol (TLS, SSL, SSH, DNSSEC) and related setting (HTTP headers, DNS records) analyzer and fingerprint (JA3, HASSH tag) generator with Python API and CLI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-31T09:07:25Z",
+            "owner": "c0r0n3r",
+            "repo": "cryptolyzer",
+            "stars": 48
+          }
+        }
+      ],
+      "title": "SSH"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CHIPSEC: Platform Security Assessment Framework",
+          "description": "framework for analyzing the security of PC platforms including hardware, system firmware (BIOS/UEFI), and platform components",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T22:03:03Z",
+            "owner": "chipsec",
+            "repo": "chipsec",
+            "stars": 3295
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chipsec-check",
+          "description": "Tools to generate a Debian Linux distribution with chipsec to test hardware requirements",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-06-05T13:40:26Z",
+            "owner": "ANSSI-FR",
+            "repo": "chipsec-check",
+            "stars": 51
+          }
+        }
+      ],
+      "title": "Hardware - CPU - BIOS - UEFI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Disassembler0 Windows 10 Initial Setup Script",
+          "description": "PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PowerShell",
+            "last_commit": "2021-05-28T08:15:14Z",
+            "owner": "Disassembler0",
+            "repo": "Win10-Initial-Setup-Script",
+            "stars": 4648
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hardentools",
+          "description": "for Windows individual users (not corporate environments) at risk, who might want an extra level of security at the price of some usability.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-08-10T15:21:12Z",
+            "owner": "hardentools",
+            "repo": "hardentools",
+            "stars": 3105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Automated-AD-Setup",
+          "description": "A PowerShell script that aims to have a fully configured domain built in under 10 minutes, but also apply security configuration and hardening",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2021-03-27T00:34:51Z",
+            "owner": "OneLogicalMyth",
+            "repo": "Automated-AD-Setup",
+            "stars": 199
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Windows 10 Hardening",
+          "description": "A collective resource of settings modifications (mostly opt-outs) that attempt to make Windows 10 as private and as secure as possible.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Batchfile",
+            "last_commit": "2025-05-01T11:06:45Z",
+            "owner": "a8763506128977812212307169331690",
+            "repo": "Windows-10-Hardening",
+            "stars": 176
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Windows 10/11 Hardening Script by ZephrFish",
+          "description": "PowerShell script to harden Windows 10/11",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Batchfile",
+            "last_commit": "2026-07-30T13:41:41Z",
+            "owner": "ZephrFish",
+            "repo": "WindowsHardeningScript",
+            "stars": 137
+          }
+        }
+      ],
+      "title": "Windows"
+    },
+    {
+      "description": "(borrowed from Awesome Security)",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Pentest",
+          "description": "A collection of awesome penetration testing resources, tools and other shiny things.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-25T12:15:45Z",
+            "owner": "enaqx",
+            "repo": "awesome-pentest",
+            "stars": 26891
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Hacking",
+          "description": "A curated list of awesome Hacking tutorials, tools and resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-06-02T22:40:13Z",
+            "owner": "carpedm20",
+            "repo": "awesome-hacking",
+            "stars": 16861
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Security",
+          "description": "A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-11T02:00:26Z",
+            "owner": "sbilly",
+            "repo": "awesome-security",
+            "stars": 14747
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Malware Analysis",
+          "description": "A curated list of awesome malware analysis tools and resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-06-07T05:09:47Z",
+            "owner": "rshipp",
+            "repo": "awesome-malware-analysis",
+            "stars": 14114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome CTF",
+          "description": "A curated list of CTF frameworks, libraries, resources and software.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-22T19:59:35Z",
+            "owner": "apsdehal",
+            "repo": "awesome-ctf",
+            "stars": 11753
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Threat Intelligence",
+          "description": "A curated list of threat intelligence resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-31T10:54:05Z",
+            "owner": "hslatman",
+            "repo": "awesome-threat-intelligence",
+            "stars": 10530
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Honeypots",
+          "description": "An awesome list of honeypot resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-01T14:15:45Z",
+            "owner": "paralax",
+            "repo": "awesome-honeypots",
+            "stars": 10519
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Android Security Awesome",
+          "description": "A collection of android security related resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2026-08-10T06:52:34Z",
+            "owner": "ashishb",
+            "repo": "android-security-awesome",
+            "stars": 9607
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Incident Response",
+          "description": "A curated list of resources for incident response.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-15T10:58:26Z",
+            "owner": "meirwah",
+            "repo": "awesome-incident-response",
+            "stars": 9322
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Web Hacking",
+          "description": "This list is for anyone wishing to learn about web application security but do not have a starting point.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-13T15:21:19Z",
+            "owner": "infoslack",
+            "repo": "awesome-web-hacking",
+            "stars": 7232
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Threat Detection and Hunting",
+          "description": "A curated list of awesome threat detection and hunting resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-05T12:27:34Z",
+            "owner": "0x4D31",
+            "repo": "awesome-threat-detection",
+            "stars": 4701
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Cyber Skills",
+          "description": "A curated list of hacking environments where you can train your cyber skills legally and safely.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-07-02T03:39:39Z",
+            "owner": "joe-shenouda",
+            "repo": "awesome-cyber-skills",
+            "stars": 4616
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Pentest Cheat Sheets",
+          "description": "Collection of the cheat sheets useful for pentesting",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2024-02-16T13:38:52Z",
+            "owner": "coreb1t",
+            "repo": "awesome-pentest-cheat-sheets",
+            "stars": 4362
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome YARA",
+          "description": "A curated list of awesome YARA rules, tools, and people.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-15T19:57:31Z",
+            "owner": "pedramamini",
+            "repo": "awesome-yara",
+            "stars": 4254
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome PCAP Tools",
+          "description": "A collection of tools developed by other researchers in the Computer Science area to process network traces.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-09-03T07:24:40Z",
+            "owner": "caesar0301",
+            "repo": "awesome-pcaptools",
+            "stars": 3413
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Crypto Papers",
+          "description": "A curated list of cryptography papers, articles, tutorials and howtos.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-10-17T18:13:08Z",
+            "owner": "pFarb",
+            "repo": "awesome-crypto-papers",
+            "stars": 2086
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Linux Containers",
+          "description": "A curated list of awesome Linux Containers frameworks, libraries and software.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-04-09T19:01:27Z",
+            "owner": "Friz-zy",
+            "repo": "awesome-linux-containers",
+            "stars": 2084
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Industrial Control System Security",
+          "description": "A curated list of resources related to Industrial Control System (ICS) security.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-05-27T08:35:19Z",
+            "owner": "mekin",
+            "repo": "awesome-industrial-control-system-security",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Container Security",
+          "description": "A curated list of awesome resources related to container building and runtime security",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-03-07T16:22:07Z",
+            "owner": "kai5263499",
+            "repo": "container-security-awesome",
+            "stars": 19
+          }
+        }
+      ],
+      "title": "Other Awesome Security Lists"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T05:55:23.076Z",
+    "original_repository": "decalage2/awesome-security-hardening",
+    "original_repository_sha": "11b15e279de65ac31bdef88d443390945e935cce",
+    "enhanced_repository": "enhansome/enhansome-security-hardening",
+    "enhanced_repository_description": null,
+    "title": "awesome-security-hardening with stars"
+  }
+}
