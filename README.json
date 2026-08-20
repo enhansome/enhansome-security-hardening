@@ -17,7 +17,7 @@
                 "last_commit": "2026-07-13T18:25:52Z",
                 "owner": "imthenachoman",
                 "repo": "How-To-Secure-A-Linux-Server",
-                "stars": 30295
+                "stars": 30296
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2024-11-19T14:02:37Z",
                 "owner": "trimstray",
                 "repo": "the-practical-linux-hardening-guide",
-                "stars": 10814
+                "stars": 10816
               }
             },
             {
@@ -99,7 +99,7 @@
                 "last_commit": "2020-01-07T19:56:18Z",
                 "owner": "PaulSec",
                 "repo": "awesome-windows-domain-hardening",
-                "stars": 1796
+                "stars": 1797
               }
             },
             {
@@ -189,7 +189,7 @@
                     "last_commit": "2026-08-10T11:12:59Z",
                     "owner": "nuver-labs",
                     "repo": "vps-audit",
-                    "stars": 2527
+                    "stars": 2532
                   }
                 },
                 {
@@ -204,7 +204,7 @@
                     "last_commit": "2026-03-11T14:40:44Z",
                     "owner": "TH3xACE",
                     "repo": "SUDO_KILLER",
-                    "stars": 2481
+                    "stars": 2482
                   }
                 },
                 {
@@ -219,7 +219,7 @@
                     "last_commit": "2026-08-19T12:28:30Z",
                     "owner": "ovh",
                     "repo": "debian-cis",
-                    "stars": 1051
+                    "stars": 1053
                   }
                 },
                 {
@@ -549,7 +549,7 @@
                 "last_commit": "2026-07-25T12:15:45Z",
                 "owner": "enaqx",
                 "repo": "awesome-pentest",
-                "stars": 26943
+                "stars": 26949
               }
             },
             {
@@ -564,7 +564,7 @@
                 "last_commit": "2024-06-02T22:40:13Z",
                 "owner": "carpedm20",
                 "repo": "awesome-hacking",
-                "stars": 16899
+                "stars": 16904
               }
             },
             {
@@ -579,7 +579,7 @@
                 "last_commit": "2026-01-11T02:00:26Z",
                 "owner": "sbilly",
                 "repo": "awesome-security",
-                "stars": 14766
+                "stars": 14769
               }
             },
             {
@@ -594,7 +594,7 @@
                 "last_commit": "2024-06-07T05:09:47Z",
                 "owner": "rshipp",
                 "repo": "awesome-malware-analysis",
-                "stars": 14133
+                "stars": 14134
               }
             },
             {
@@ -609,7 +609,7 @@
                 "last_commit": "2024-07-22T19:59:35Z",
                 "owner": "apsdehal",
                 "repo": "awesome-ctf",
-                "stars": 11765
+                "stars": 11770
               }
             },
             {
@@ -624,7 +624,7 @@
                 "last_commit": "2026-05-31T10:54:05Z",
                 "owner": "hslatman",
                 "repo": "awesome-threat-intelligence",
-                "stars": 10545
+                "stars": 10546
               }
             },
             {
@@ -639,7 +639,7 @@
                 "last_commit": "2026-06-01T14:15:45Z",
                 "owner": "paralax",
                 "repo": "awesome-honeypots",
-                "stars": 10522
+                "stars": 10521
               }
             },
             {
@@ -651,7 +651,7 @@
                 "archived": false,
                 "id": 22117770,
                 "language": "Makefile",
-                "last_commit": "2026-08-17T06:04:10Z",
+                "last_commit": "2026-08-19T15:34:21Z",
                 "owner": "ashishb",
                 "repo": "android-security-awesome",
                 "stars": 9618
@@ -669,7 +669,7 @@
                 "last_commit": "2026-07-15T10:58:26Z",
                 "owner": "meirwah",
                 "repo": "awesome-incident-response",
-                "stars": 9338
+                "stars": 9339
               }
             },
             {
@@ -684,7 +684,7 @@
                 "last_commit": "2026-08-13T15:21:19Z",
                 "owner": "infoslack",
                 "repo": "awesome-web-hacking",
-                "stars": 7235
+                "stars": 7238
               }
             },
             {
@@ -699,7 +699,7 @@
                 "last_commit": "2026-01-05T12:27:34Z",
                 "owner": "0x4D31",
                 "repo": "awesome-threat-detection",
-                "stars": 4702
+                "stars": 4704
               }
             },
             {
@@ -729,7 +729,7 @@
                 "last_commit": "2024-02-16T13:38:52Z",
                 "owner": "coreb1t",
                 "repo": "awesome-pentest-cheat-sheets",
-                "stars": 4362
+                "stars": 4363
               }
             },
             {
@@ -759,22 +759,7 @@
                 "last_commit": "2025-09-03T07:24:40Z",
                 "owner": "caesar0301",
                 "repo": "awesome-pcaptools",
-                "stars": 3414
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Awesome Linux Containers",
-              "description": "A curated list of awesome Linux Containers frameworks, libraries and software.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 40815285,
-                "language": null,
-                "last_commit": "2024-04-09T19:01:27Z",
-                "owner": "Friz-zy",
-                "repo": "awesome-linux-containers",
-                "stars": 2089
+                "stars": 3413
               }
             },
             {
@@ -789,6 +774,21 @@
                 "last_commit": "2024-10-17T18:13:08Z",
                 "owner": "pFarb",
                 "repo": "awesome-crypto-papers",
+                "stars": 2091
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Linux Containers",
+              "description": "A curated list of awesome Linux Containers frameworks, libraries and software.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 40815285,
+                "language": null,
+                "last_commit": "2024-04-09T19:01:27Z",
+                "owner": "Friz-zy",
+                "repo": "awesome-linux-containers",
                 "stars": 2089
               }
             },
@@ -832,7 +832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:49:57.905Z",
+    "last_updated": "2026-08-20T05:03:53.552Z",
     "original_repository": "decalage2/awesome-security-hardening",
     "original_repository_id": 184064793,
     "original_repository_sha": "11b15e279de65ac31bdef88d443390945e935cce",
