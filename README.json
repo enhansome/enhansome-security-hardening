@@ -17,7 +17,7 @@
                 "last_commit": "2026-07-13T18:25:52Z",
                 "owner": "imthenachoman",
                 "repo": "How-To-Secure-A-Linux-Server",
-                "stars": 30308
+                "stars": 30309
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-05-04T12:02:04Z",
                 "owner": "Neo23x0",
                 "repo": "auditd",
-                "stars": 1896
+                "stars": 1897
               }
             },
             {
@@ -166,6 +166,86 @@
           "description": "See also Active Directory and ADFS below.",
           "node_type": "group",
           "title": "Windows"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "trimstray - Iptables Essentials: Common Firewall Rules and Commands",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 144721723,
+                    "language": null,
+                    "last_commit": "2024-11-19T13:59:50Z",
+                    "owner": "trimstray",
+                    "repo": "iptables-essentials",
+                    "stars": 1591
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Firewalls"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Network Devices"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Qualys SSL Labs - SSL and TLS Deployment Best Practices",
+                  "description": "2017, does not cover TLS 1.3",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 4443703,
+                    "language": null,
+                    "last_commit": "2023-03-14T06:24:28Z",
+                    "owner": "ssllabs",
+                    "repo": "research",
+                    "stars": 2205
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "TLS/SSL"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Services"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "NSA - Hardware and Firmware Security Guidance",
+              "description": "Guidance for the Spectre, Meltdown, Speculative Store Bypass, Rogue System Register Read, Lazy FP State Restore, Bounds Check Bypass Store, TLBleed, and L1TF/Foreshadow vulnerabilities as well as general hardware and firmware security guidance.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 116982088,
+                "language": "C",
+                "last_commit": "2024-12-23T21:28:31Z",
+                "owner": "nsacyber",
+                "repo": "Hardware-and-Firmware-Security-Guidance",
+                "stars": 874
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Hardware - CPU - BIOS - UEFI"
         }
       ],
       "title": "Security Hardening Guides and Best Practices"
@@ -219,7 +299,7 @@
                     "last_commit": "2026-08-21T08:54:58Z",
                     "owner": "ovh",
                     "repo": "debian-cis",
-                    "stars": 1055
+                    "stars": 1056
                   }
                 },
                 {
@@ -298,6 +378,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "Nipper-ng",
+                  "description": "to check the configuration of network devices (does not seem to be updated)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 82581399,
+                    "language": "C++",
+                    "last_commit": "2022-06-28T09:36:50Z",
+                    "owner": "arpitn30",
+                    "repo": "nipper-ng",
+                    "stars": 78
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Network Devices"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "testssl.sh",
                   "description": "Testing TLS/SSL encryption anywhere on any port",
                   "children": [],
@@ -305,10 +407,10 @@
                     "archived": false,
                     "id": 21385916,
                     "language": "Shell",
-                    "last_commit": "2026-08-15T14:27:02Z",
+                    "last_commit": "2026-08-24T08:52:11Z",
                     "owner": "testssl",
                     "repo": "testssl.sh",
-                    "stars": 9180
+                    "stars": 9181
                   }
                 },
                 {
@@ -323,7 +425,7 @@
                     "last_commit": "2026-08-23T19:34:50Z",
                     "owner": "nabla-c0d3",
                     "repo": "sslyze",
-                    "stars": 3774
+                    "stars": 3775
                   }
                 },
                 {
@@ -434,6 +536,50 @@
               "description": null,
               "node_type": "group",
               "title": "Hardware - CPU - BIOS - UEFI"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Docker Bench for Security",
+                  "description": "script that checks for dozens of common best-practices around deploying Docker containers in production, inspired by the CIS Docker Community Edition Benchmark v1.1.0.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 35394510,
+                    "language": "Shell",
+                    "last_commit": "2026-06-04T18:11:52Z",
+                    "owner": "docker",
+                    "repo": "docker-bench-security",
+                    "stars": 9694
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Docker"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "toniblyx/my-arsenal-of-aws-security-tools",
+                  "description": "List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 141482866,
+                    "language": "Shell",
+                    "last_commit": "2026-07-07T14:45:14Z",
+                    "owner": "toniblyx",
+                    "repo": "my-arsenal-of-aws-security-tools",
+                    "stars": 9501
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Cloud"
             }
           ],
           "description": null,
@@ -442,6 +588,28 @@
         },
         {
           "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Linux Server Hardener",
+                  "description": "for Debian/Ubuntu (2019)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 167062211,
+                    "language": "Shell",
+                    "last_commit": "2025-10-14T15:48:45Z",
+                    "owner": "pratiktri",
+                    "repo": "server_init_harden",
+                    "stars": 117
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "GNU/Linux"
+            },
             {
               "children": [
                 {
@@ -523,6 +691,28 @@
               "description": null,
               "node_type": "group",
               "title": "Windows"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "toniblyx/my-arsenal-of-aws-security-tools",
+                  "description": "List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 141482866,
+                    "language": "Shell",
+                    "last_commit": "2026-07-07T14:45:14Z",
+                    "owner": "toniblyx",
+                    "repo": "my-arsenal-of-aws-security-tools",
+                    "stars": 9501
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Cloud"
             }
           ],
           "description": null,
@@ -535,6 +725,21 @@
     {
       "description": null,
       "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Cybersecurity Blue Team",
+          "description": "A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 142053144,
+            "language": null,
+            "last_commit": "2024-07-15T08:05:27Z",
+            "owner": "fabacab",
+            "repo": "awesome-cybersecurity-blueteam",
+            "stars": 5539
+          }
+        },
         {
           "children": [
             {
@@ -564,7 +769,7 @@
                 "last_commit": "2024-06-02T22:40:13Z",
                 "owner": "carpedm20",
                 "repo": "awesome-hacking",
-                "stars": 16928
+                "stars": 16929
               }
             },
             {
@@ -579,7 +784,7 @@
                 "last_commit": "2026-01-11T02:00:26Z",
                 "owner": "sbilly",
                 "repo": "awesome-security",
-                "stars": 14790
+                "stars": 14791
               }
             },
             {
@@ -594,7 +799,7 @@
                 "last_commit": "2024-06-07T05:09:47Z",
                 "owner": "rshipp",
                 "repo": "awesome-malware-analysis",
-                "stars": 14151
+                "stars": 14149
               }
             },
             {
@@ -609,7 +814,7 @@
                 "last_commit": "2024-07-22T19:59:35Z",
                 "owner": "apsdehal",
                 "repo": "awesome-ctf",
-                "stars": 11789
+                "stars": 11791
               }
             },
             {
@@ -624,7 +829,7 @@
                 "last_commit": "2026-05-31T10:54:05Z",
                 "owner": "hslatman",
                 "repo": "awesome-threat-intelligence",
-                "stars": 10564
+                "stars": 10568
               }
             },
             {
@@ -654,7 +859,7 @@
                 "last_commit": "2026-08-21T18:33:19Z",
                 "owner": "ashishb",
                 "repo": "android-security-awesome",
-                "stars": 9634
+                "stars": 9638
               }
             },
             {
@@ -669,7 +874,7 @@
                 "last_commit": "2026-07-15T10:58:26Z",
                 "owner": "meirwah",
                 "repo": "awesome-incident-response",
-                "stars": 9348
+                "stars": 9349
               }
             },
             {
@@ -714,7 +919,7 @@
                 "last_commit": "2024-07-02T03:39:39Z",
                 "owner": "joe-shenouda",
                 "repo": "awesome-cyber-skills",
-                "stars": 4632
+                "stars": 4634
               }
             },
             {
@@ -744,7 +949,7 @@
                 "last_commit": "2026-06-15T19:57:31Z",
                 "owner": "pedramamini",
                 "repo": "awesome-yara",
-                "stars": 4259
+                "stars": 4260
               }
             },
             {
@@ -832,7 +1037,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T05:11:11.296Z",
+    "last_updated": "2026-08-24T13:54:04.572Z",
     "original_repository": "decalage2/awesome-security-hardening",
     "original_repository_id": 184064793,
     "original_repository_sha": "11b15e279de65ac31bdef88d443390945e935cce",
