@@ -829,7 +829,7 @@
                 "last_commit": "2026-05-31T10:54:05Z",
                 "owner": "hslatman",
                 "repo": "awesome-threat-intelligence",
-                "stars": 10570
+                "stars": 10571
               }
             },
             {
@@ -1037,7 +1037,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:04:39.645Z",
+    "last_updated": "2026-08-25T05:48:46.784Z",
     "original_repository": "decalage2/awesome-security-hardening",
     "original_repository_id": 184064793,
     "original_repository_sha": "11b15e279de65ac31bdef88d443390945e935cce",
