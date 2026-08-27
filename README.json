@@ -17,7 +17,7 @@
                 "last_commit": "2026-07-13T18:25:52Z",
                 "owner": "imthenachoman",
                 "repo": "How-To-Secure-A-Linux-Server",
-                "stars": 30313
+                "stars": 30317
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2024-11-19T14:00:13Z",
                 "owner": "trimstray",
                 "repo": "linux-hardening-checklist",
-                "stars": 1641
+                "stars": 1642
               }
             },
             {
@@ -77,7 +77,7 @@
                 "last_commit": "2024-11-19T13:59:50Z",
                 "owner": "trimstray",
                 "repo": "iptables-essentials",
-                "stars": 1591
+                "stars": 1590
               }
             }
           ],
@@ -183,7 +183,7 @@
                     "last_commit": "2024-11-19T13:59:50Z",
                     "owner": "trimstray",
                     "repo": "iptables-essentials",
-                    "stars": 1591
+                    "stars": 1590
                   }
                 }
               ],
@@ -269,7 +269,7 @@
                     "last_commit": "2026-08-10T11:12:59Z",
                     "owner": "nuver-labs",
                     "repo": "vps-audit",
-                    "stars": 2541
+                    "stars": 2754
                   }
                 },
                 {
@@ -299,7 +299,7 @@
                     "last_commit": "2026-08-21T08:54:58Z",
                     "owner": "ovh",
                     "repo": "debian-cis",
-                    "stars": 1056
+                    "stars": 1057
                   }
                 },
                 {
@@ -410,7 +410,7 @@
                     "last_commit": "2026-08-24T17:49:55Z",
                     "owner": "testssl",
                     "repo": "testssl.sh",
-                    "stars": 9180
+                    "stars": 9181
                   }
                 },
                 {
@@ -511,7 +511,7 @@
                     "archived": false,
                     "id": 17494082,
                     "language": "Python",
-                    "last_commit": "2026-08-25T23:56:08Z",
+                    "last_commit": "2026-08-26T23:07:42Z",
                     "owner": "chipsec",
                     "repo": "chipsec",
                     "stars": 3295
@@ -573,7 +573,7 @@
                     "last_commit": "2026-07-07T14:45:14Z",
                     "owner": "toniblyx",
                     "repo": "my-arsenal-of-aws-security-tools",
-                    "stars": 9501
+                    "stars": 9502
                   }
                 }
               ],
@@ -706,7 +706,7 @@
                     "last_commit": "2026-07-07T14:45:14Z",
                     "owner": "toniblyx",
                     "repo": "my-arsenal-of-aws-security-tools",
-                    "stars": 9501
+                    "stars": 9502
                   }
                 }
               ],
@@ -754,7 +754,7 @@
                 "last_commit": "2026-07-25T12:15:45Z",
                 "owner": "enaqx",
                 "repo": "awesome-pentest",
-                "stars": 27008
+                "stars": 27022
               }
             },
             {
@@ -769,7 +769,7 @@
                 "last_commit": "2024-06-02T22:40:13Z",
                 "owner": "carpedm20",
                 "repo": "awesome-hacking",
-                "stars": 16940
+                "stars": 16948
               }
             },
             {
@@ -784,7 +784,7 @@
                 "last_commit": "2026-01-11T02:00:26Z",
                 "owner": "sbilly",
                 "repo": "awesome-security",
-                "stars": 14795
+                "stars": 14797
               }
             },
             {
@@ -799,7 +799,7 @@
                 "last_commit": "2024-06-07T05:09:47Z",
                 "owner": "rshipp",
                 "repo": "awesome-malware-analysis",
-                "stars": 14159
+                "stars": 14158
               }
             },
             {
@@ -814,7 +814,7 @@
                 "last_commit": "2024-07-22T19:59:35Z",
                 "owner": "apsdehal",
                 "repo": "awesome-ctf",
-                "stars": 11797
+                "stars": 11800
               }
             },
             {
@@ -829,7 +829,7 @@
                 "last_commit": "2026-05-31T10:54:05Z",
                 "owner": "hslatman",
                 "repo": "awesome-threat-intelligence",
-                "stars": 10575
+                "stars": 10580
               }
             },
             {
@@ -844,7 +844,7 @@
                 "last_commit": "2026-06-01T14:15:45Z",
                 "owner": "paralax",
                 "repo": "awesome-honeypots",
-                "stars": 10535
+                "stars": 10534
               }
             },
             {
@@ -859,7 +859,7 @@
                 "last_commit": "2026-08-21T18:33:19Z",
                 "owner": "ashishb",
                 "repo": "android-security-awesome",
-                "stars": 9643
+                "stars": 9646
               }
             },
             {
@@ -874,7 +874,7 @@
                 "last_commit": "2026-07-15T10:58:26Z",
                 "owner": "meirwah",
                 "repo": "awesome-incident-response",
-                "stars": 9352
+                "stars": 9353
               }
             },
             {
@@ -904,7 +904,7 @@
                 "last_commit": "2026-01-05T12:27:34Z",
                 "owner": "0x4D31",
                 "repo": "awesome-threat-detection",
-                "stars": 4710
+                "stars": 4711
               }
             },
             {
@@ -919,7 +919,7 @@
                 "last_commit": "2024-07-02T03:39:39Z",
                 "owner": "joe-shenouda",
                 "repo": "awesome-cyber-skills",
-                "stars": 4636
+                "stars": 4638
               }
             },
             {
@@ -949,7 +949,7 @@
                 "last_commit": "2026-06-15T19:57:31Z",
                 "owner": "pedramamini",
                 "repo": "awesome-yara",
-                "stars": 4261
+                "stars": 4263
               }
             },
             {
@@ -1037,9 +1037,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T05:04:57.493Z",
-    "original_repository": "decalage2/awesome-security-hardening",
-    "original_repository_id": 184064793,
+    "last_updated": "2026-08-27T12:05:09.683Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 184064793,
+      "language": null,
+      "last_commit": "2026-05-05T21:38:04Z",
+      "owner": "decalage2",
+      "repo": "awesome-security-hardening",
+      "stars": 6526
+    },
     "original_repository_sha": "11b15e279de65ac31bdef88d443390945e935cce",
     "enhanced_repository": "enhansome/enhansome-security-hardening",
     "enhanced_repository_description": null,
