@@ -21,7 +21,7 @@
                 "open_issues": 35,
                 "owner": "imthenachoman",
                 "repo": "How-To-Secure-A-Linux-Server",
-                "stars": 30315,
+                "stars": 30314,
                 "topics": [
                   "cc-by-sa",
                   "hardening",
@@ -434,7 +434,7 @@
                     "open_issues": 11,
                     "owner": "nuver-labs",
                     "repo": "vps-audit",
-                    "stars": 2834,
+                    "stars": 2849,
                     "topics": [
                       "auditi",
                       "bash",
@@ -954,7 +954,7 @@
                     "open_issues": 29,
                     "owner": "docker",
                     "repo": "docker-bench-security",
-                    "stars": 9695,
+                    "stars": 9696,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:48:45.755Z"
@@ -1278,7 +1278,7 @@
                 "open_issues": 105,
                 "owner": "enaqx",
                 "repo": "awesome-pentest",
-                "stars": 27049,
+                "stars": 27050,
                 "topics": [
                   "awesome",
                   "awesome-list"
@@ -1326,7 +1326,7 @@
                 "open_issues": 316,
                 "owner": "sbilly",
                 "repo": "awesome-security",
-                "stars": 14805,
+                "stars": 14806,
                 "topics": [
                   "awesome-list",
                   "security"
@@ -1391,7 +1391,7 @@
                 "open_issues": 66,
                 "owner": "apsdehal",
                 "repo": "awesome-ctf",
-                "stars": 11803,
+                "stars": 11805,
                 "topics": [
                   "awesome",
                   "ctf",
@@ -1497,7 +1497,7 @@
                 "open_issues": 75,
                 "owner": "meirwah",
                 "repo": "awesome-incident-response",
-                "stars": 9357,
+                "stars": 9358,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1527,7 +1527,7 @@
                 "open_issues": 7,
                 "owner": "infoslack",
                 "repo": "awesome-web-hacking",
-                "stars": 7245,
+                "stars": 7246,
                 "topics": [
                   "appsec",
                   "hacking",
@@ -1788,7 +1788,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:15:29.418Z",
+    "last_updated": "2026-08-29T11:17:32.804Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome security hardening guides, tools and other resources",
