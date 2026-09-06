@@ -1,9 +1,9 @@
 # awesome-security-hardening with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 503,108 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 503,423 | 🐛 106 | 📅 2026-09-02
 
 A collection of awesome security hardening guides, best practices, checklists, benchmarks, tools and other resources.
-This is work in progress: please contribute by sending your suggestions. You may do this by creating [issue tickets](https://github.com/decalage2/awesome-security-hardening/issues) ⭐ 6,544 | 🐛 125 | 📅 2026-05-05 or forking, editing and sending pull requests. You may also send suggestions on Twitter to [@decalage2](https://twitter.com/decalage2), or use <https://www.decalage.info/contact>
+This is work in progress: please contribute by sending your suggestions. You may do this by creating [issue tickets](https://github.com/decalage2/awesome-security-hardening/issues) ⭐ 6,546 | 🐛 125 | 📅 2026-05-05 or forking, editing and sending pull requests. You may also send suggestions on Twitter to [@decalage2](https://twitter.com/decalage2), or use <https://www.decalage.info/contact>
 
 ***
 
@@ -86,8 +86,8 @@ This is work in progress: please contribute by sending your suggestions. You may
 
 ## GNU/Linux
 
-* [How To Secure A Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) ⭐ 31,236 | 🐛 35 | 📅 2026-09-03 - for a single Linux server at home
-* [trimstray - The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide) ⭐ 10,823 | 🐛 10 | 📅 2024-11-19 - practical step-by-step instructions for building your own hardened systems and services. Tested on CentOS 7 and RHEL 7.
+* [How To Secure A Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) ⭐ 31,274 | 🐛 35 | 📅 2026-09-03 - for a single Linux server at home
+* [trimstray - The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide) ⭐ 10,825 | 🐛 10 | 📅 2024-11-19 - practical step-by-step instructions for building your own hardened systems and services. Tested on CentOS 7 and RHEL 7.
 * [Neo23x0/auditd](https://github.com/Neo23x0/auditd) ⭐ 1,905 | 🐛 18 | 🌐 Shell | 📅 2026-05-04 - Best Practice Auditd Configuration
 * [trimstray - Linux Hardening Checklist](https://github.com/trimstray/linux-hardening-checklist) ⭐ 1,644 | 🐛 5 | 📅 2024-11-19 - most important hardening rules for GNU/Linux systems (summarized version of The Practical Linux Hardening Guide)
 * [trimstray - Iptables Essentials: Common Firewall Rules and Commands](https://github.com/trimstray/iptables-essentials) ⭐ 1,591 | 🐛 4 | 📅 2024-11-19
@@ -337,7 +337,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 
 ### GNU/Linux
 
-* [VPS Security Audit Script](https://github.com/vernu/vps-audit) ⭐ 3,042 | 🐛 11 | 🌐 Shell | 📅 2026-08-10 - A comprehensive Bash script for auditing the security and performance of your VPS (Virtual Private Server)
+* [VPS Security Audit Script](https://github.com/vernu/vps-audit) ⭐ 3,057 | 🐛 11 | 🌐 Shell | 📅 2026-08-10 - A comprehensive Bash script for auditing the security and performance of your VPS (Virtual Private Server)
 * [SUDO\_KILLER](https://github.com/TH3xACE/SUDO_KILLER) ⭐ 2,482 | 🐛 1 | 🌐 Shell | 📅 2026-03-11 - A tool to identify sudo rules' misconfigurations and vulnerabilities within sudo
 * [CIS Debian Hardening](https://github.com/ovh/debian-cis) ⭐ 1,061 | 🐛 14 | 🌐 Shell | 📅 2026-09-04 - Modular Debian 11/12/13 security hardening scripts based on [CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks/) recommendations.
 * [otseca](https://github.com/trimstray/otseca) ⭐ 522 | 🐛 4 | 🌐 Shell | 📅 2024-11-19 - Open source security auditing tool to search and dump system configuration. It allows you to generate reports in HTML or RAW-HTML formats.
@@ -361,14 +361,14 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 
 ### TLS/SSL
 
-* [testssl.sh](https://github.com/drwetter/testssl.sh) ⭐ 9,192 | 🐛 245 | 🌐 Shell | 📅 2026-09-04 - Testing TLS/SSL encryption anywhere on any port
+* [testssl.sh](https://github.com/drwetter/testssl.sh) ⭐ 9,193 | 🐛 245 | 🌐 Shell | 📅 2026-09-04 - Testing TLS/SSL encryption anywhere on any port
 * [SSLyze](https://github.com/nabla-c0d3/sslyze) ⭐ 3,775 | 🐛 31 | 🌐 Python | 📅 2026-08-30 - Fast and powerful SSL/TLS scanning library.
 * [Qualys SSL Labs - List of tools to assess TLS/SSL servers and clients](https://github.com/ssllabs/research/wiki/Assessment-Tools) ⭐ 2,204 | 🐛 2 | 📅 2023-03-14
 * [CryptoLyzer](https://github.com/c0r0n3r/cryptolyzer) ⭐ 48 | 🐛 0 | 🌐 Python | 📅 2026-08-28 - Fast, flexible and comprehensive server cryptographic protocol (TLS, SSL, SSH, DNSSEC) and related setting (HTTP headers, DNS records) analyzer and fingerprint (JA3, HASSH tag) generator with Python API and CLI.
 
 ### SSH
 
-* [ssh-audit](https://github.com/arthepsy/ssh-audit) ⭐ 2,995 | 🐛 31 | 🌐 Python | 📅 2024-06-28 - SSH server auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
+* [ssh-audit](https://github.com/arthepsy/ssh-audit) ⭐ 2,996 | 🐛 31 | 🌐 Python | 📅 2024-06-28 - SSH server auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
 * [CryptoLyzer](https://github.com/c0r0n3r/cryptolyzer) ⭐ 48 | 🐛 0 | 🌐 Python | 📅 2026-08-28 - Fast, flexible and comprehensive server cryptographic protocol (TLS, SSL, SSH, DNSSEC) and related setting (HTTP headers, DNS records) analyzer and fingerprint (JA3, HASSH tag) generator with Python API and CLI.
 
 ### Hardware - CPU - BIOS - UEFI
@@ -378,7 +378,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 
 ### Docker
 
-* [Docker Bench for Security](https://github.com/docker/docker-bench-security) ⭐ 9,697 | 🐛 29 | 🌐 Shell | 📅 2026-06-04 - script that checks for dozens of common best-practices around deploying Docker containers in production, inspired by the CIS Docker Community Edition Benchmark v1.1.0.
+* [Docker Bench for Security](https://github.com/docker/docker-bench-security) ⭐ 9,698 | 🐛 29 | 🌐 Shell | 📅 2026-06-04 - script that checks for dozens of common best-practices around deploying Docker containers in production, inspired by the CIS Docker Community Edition Benchmark v1.1.0.
 
 ### Cloud
 
@@ -429,23 +429,23 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 
 ## Other Awesome Security Lists
 
-(borrowed from [Awesome Security](https://github.com/sbilly/awesome-security) ⭐ 14,830 | 🐛 323 | 📅 2026-01-11)
+(borrowed from [Awesome Security](https://github.com/sbilly/awesome-security) ⭐ 14,831 | 🐛 322 | 📅 2026-01-11)
 
-* [Awesome Pentest](https://github.com/enaqx/awesome-pentest) ⭐ 27,122 | 🐛 114 | 📅 2026-07-25 - A collection of awesome penetration testing resources, tools and other shiny things.
-* [Awesome Hacking](https://github.com/carpedm20/awesome-hacking) ⭐ 17,001 | 🐛 70 | 📅 2024-06-02 - A curated list of awesome Hacking tutorials, tools and resources.
-* [Awesome Security](https://github.com/sbilly/awesome-security) ⭐ 14,830 | 🐛 323 | 📅 2026-01-11 - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
+* [Awesome Pentest](https://github.com/enaqx/awesome-pentest) ⭐ 27,128 | 🐛 112 | 📅 2026-07-25 - A collection of awesome penetration testing resources, tools and other shiny things.
+* [Awesome Hacking](https://github.com/carpedm20/awesome-hacking) ⭐ 17,010 | 🐛 71 | 📅 2024-06-02 - A curated list of awesome Hacking tutorials, tools and resources.
+* [Awesome Security](https://github.com/sbilly/awesome-security) ⭐ 14,831 | 🐛 322 | 📅 2026-01-11 - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
 * [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) ⭐ 14,181 | 🐛 25 | 📅 2024-06-07 - A curated list of awesome malware analysis tools and resources.
-* [Awesome CTF](https://github.com/apsdehal/awesome-ctf) ⭐ 11,826 | 🐛 67 | 🌐 JavaScript | 📅 2024-07-22 - A curated list of CTF frameworks, libraries, resources and software.
-* [Awesome Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence) ⭐ 10,602 | 🐛 121 | 📅 2026-05-31 - A curated list of threat intelligence resources.
-* [Awesome Honeypots](https://github.com/paralax/awesome-honeypots) ⭐ 10,546 | 🐛 22 | 🌐 Python | 📅 2026-06-01 - An awesome list of honeypot resources.
-* [Android Security Awesome](https://github.com/ashishb/android-security-awesome) ⭐ 9,672 | 🐛 0 | 🌐 Makefile | 📅 2026-08-21 - A collection of android security related resources.
-* [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response) ⭐ 9,372 | 🐛 78 | 📅 2026-07-15 - A curated list of resources for incident response.
-* [Awesome Web Hacking](https://github.com/infoslack/awesome-web-hacking) ⭐ 7,260 | 🐛 9 | 📅 2026-09-04 - This list is for anyone wishing to learn about web application security but do not have a starting point.
-* [Awesome Threat Detection and Hunting](https://github.com/0x4D31/awesome-threat-detection) ⭐ 4,721 | 🐛 55 | 📅 2026-01-05 - A curated list of awesome threat detection and hunting resources.
-* [Awesome Cyber Skills](https://github.com/joe-shenouda/awesome-cyber-skills) ⭐ 4,658 | 🐛 8 | 📅 2024-07-02 - A curated list of hacking environments where you can train your cyber skills legally and safely.
+* [Awesome CTF](https://github.com/apsdehal/awesome-ctf) ⭐ 11,829 | 🐛 67 | 🌐 JavaScript | 📅 2024-07-22 - A curated list of CTF frameworks, libraries, resources and software.
+* [Awesome Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence) ⭐ 10,606 | 🐛 121 | 📅 2026-05-31 - A curated list of threat intelligence resources.
+* [Awesome Honeypots](https://github.com/paralax/awesome-honeypots) ⭐ 10,547 | 🐛 22 | 🌐 Python | 📅 2026-06-01 - An awesome list of honeypot resources.
+* [Android Security Awesome](https://github.com/ashishb/android-security-awesome) ⭐ 9,673 | 🐛 1 | 🌐 Makefile | 📅 2026-08-21 - A collection of android security related resources.
+* [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response) ⭐ 9,373 | 🐛 78 | 📅 2026-07-15 - A curated list of resources for incident response.
+* [Awesome Web Hacking](https://github.com/infoslack/awesome-web-hacking) ⭐ 7,260 | 🐛 10 | 📅 2026-09-04 - This list is for anyone wishing to learn about web application security but do not have a starting point.
+* [Awesome Threat Detection and Hunting](https://github.com/0x4D31/awesome-threat-detection) ⭐ 4,722 | 🐛 55 | 📅 2026-01-05 - A curated list of awesome threat detection and hunting resources.
+* [Awesome Cyber Skills](https://github.com/joe-shenouda/awesome-cyber-skills) ⭐ 4,663 | 🐛 8 | 📅 2024-07-02 - A curated list of hacking environments where you can train your cyber skills legally and safely.
 * [Awesome Pentest Cheat Sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets) ⚠️ Archived - Collection of the cheat sheets useful for pentesting
 * [Awesome YARA](https://github.com/InQuest/awesome-yara) ⭐ 4,269 | 🐛 2 | 📅 2026-06-15 - A curated list of awesome YARA rules, tools, and people.
-* [Awesome PCAP Tools](https://github.com/caesar0301/awesome-pcaptools) ⭐ 3,419 | 🐛 14 | 📅 2025-09-03 - A collection of tools developed by other researchers in the Computer Science area to process network traces.
+* [Awesome PCAP Tools](https://github.com/caesar0301/awesome-pcaptools) ⭐ 3,420 | 🐛 14 | 📅 2025-09-03 - A collection of tools developed by other researchers in the Computer Science area to process network traces.
 * [Awesome Linux Containers](https://github.com/Friz-zy/awesome-linux-containers) ⭐ 2,095 | 🐛 11 | 📅 2024-04-09 - A curated list of awesome Linux Containers frameworks, libraries and software.
 * [Awesome Crypto Papers](https://github.com/pFarb/awesome-crypto-papers) ⭐ 2,094 | 🐛 4 | 📅 2024-10-17 - A curated list of cryptography papers, articles, tutorials and howtos.
 * [Awesome Industrial Control System Security](https://github.com/mpesen/awesome-industrial-control-system-security) ⭐ 32 | 🐛 0 | 🌐 Python | 📅 2016-05-27 - A curated list of resources related to Industrial Control System (ICS) security.
@@ -453,4 +453,4 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
