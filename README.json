@@ -21,7 +21,7 @@
                 "open_issues": 33,
                 "owner": "imthenachoman",
                 "repo": "How-To-Secure-A-Linux-Server",
-                "stars": 31747,
+                "stars": 31750,
                 "topics": [
                   "cc-by-sa",
                   "hardening",
@@ -1338,7 +1338,7 @@
                 "open_issues": 74,
                 "owner": "carpedm20",
                 "repo": "awesome-hacking",
-                "stars": 17186,
+                "stars": 17189,
                 "topics": [
                   "awesome",
                   "hacking"
@@ -1427,7 +1427,7 @@
                 "open_issues": 70,
                 "owner": "apsdehal",
                 "repo": "awesome-ctf",
-                "stars": 11881,
+                "stars": 11882,
                 "topics": [
                   "awesome",
                   "ctf",
@@ -1453,7 +1453,7 @@
                 "open_issues": 143,
                 "owner": "hslatman",
                 "repo": "awesome-threat-intelligence",
-                "stars": 10694,
+                "stars": 10695,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1506,7 +1506,7 @@
                 "open_issues": 0,
                 "owner": "ashishb",
                 "repo": "android-security-awesome",
-                "stars": 9723,
+                "stars": 9725,
                 "topics": [
                   "android",
                   "awesome",
@@ -1563,7 +1563,7 @@
                 "open_issues": 11,
                 "owner": "infoslack",
                 "repo": "awesome-web-hacking",
-                "stars": 7281,
+                "stars": 7282,
                 "topics": [
                   "appsec",
                   "hacking",
@@ -1627,7 +1627,7 @@
                 "open_issues": 0,
                 "owner": "joe-shenouda",
                 "repo": "awesome-cyber-skills",
-                "stars": 4705,
+                "stars": 4706,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:48:45.755Z"
@@ -1824,7 +1824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:05:18.508Z",
+    "last_updated": "2026-10-03T09:58:58.080Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome security hardening guides, tools and other resources",
