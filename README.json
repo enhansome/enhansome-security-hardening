@@ -21,7 +21,7 @@
                 "open_issues": 32,
                 "owner": "imthenachoman",
                 "repo": "How-To-Secure-A-Linux-Server",
-                "stars": 31775,
+                "stars": 31776,
                 "topics": [
                   "cc-by-sa",
                   "hardening",
@@ -725,7 +725,7 @@
                     "open_issues": 249,
                     "owner": "testssl",
                     "repo": "testssl.sh",
-                    "stars": 9224,
+                    "stars": 9225,
                     "topics": [
                       "cipher",
                       "client-simulation",
@@ -1362,7 +1362,7 @@
                 "open_issues": 351,
                 "owner": "sbilly",
                 "repo": "awesome-security",
-                "stars": 14945,
+                "stars": 14946,
                 "topics": [
                   "awesome-list",
                   "security"
@@ -1563,7 +1563,7 @@
                 "open_issues": 12,
                 "owner": "infoslack",
                 "repo": "awesome-web-hacking",
-                "stars": 7286,
+                "stars": 7285,
                 "topics": [
                   "appsec",
                   "hacking",
@@ -1824,7 +1824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:35:20.566Z",
+    "last_updated": "2026-10-06T11:25:28.908Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome security hardening guides, tools and other resources",
