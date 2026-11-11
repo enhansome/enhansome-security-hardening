@@ -21,7 +21,7 @@
                 "open_issues": 32,
                 "owner": "imthenachoman",
                 "repo": "How-To-Secure-A-Linux-Server",
-                "stars": 32049,
+                "stars": 32055,
                 "topics": [
                   "cc-by-sa",
                   "hardening",
@@ -51,7 +51,7 @@
                 "open_issues": 10,
                 "owner": "trimstray",
                 "repo": "the-practical-linux-hardening-guide",
-                "stars": 10912,
+                "stars": 10915,
                 "topics": [
                   "audit",
                   "centos",
@@ -350,7 +350,7 @@
                     "open_issues": 2,
                     "owner": "ssllabs",
                     "repo": "research",
-                    "stars": 2208,
+                    "stars": 2206,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:48:45.755Z"
@@ -383,7 +383,7 @@
                 "open_issues": 12,
                 "owner": "nsacyber",
                 "repo": "Hardware-and-Firmware-Security-Guidance",
-                "stars": 888,
+                "stars": 889,
                 "topics": [
                   "audit",
                   "cve",
@@ -434,7 +434,7 @@
                     "open_issues": 13,
                     "owner": "nuver-labs",
                     "repo": "vps-audit",
-                    "stars": 3279,
+                    "stars": 3280,
                     "topics": [
                       "auditi",
                       "bash",
@@ -725,7 +725,7 @@
                     "open_issues": 33,
                     "owner": "nabla-c0d3",
                     "repo": "sslyze",
-                    "stars": 3796,
+                    "stars": 3797,
                     "topics": [
                       "heartbleed",
                       "library",
@@ -758,7 +758,7 @@
                     "open_issues": 2,
                     "owner": "ssllabs",
                     "repo": "research",
-                    "stars": 2208,
+                    "stars": 2206,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:48:45.755Z"
@@ -976,7 +976,7 @@
                     "open_issues": 28,
                     "owner": "docker",
                     "repo": "docker-bench-security",
-                    "stars": 9710,
+                    "stars": 9712,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:48:45.755Z"
@@ -1004,7 +1004,7 @@
                     "open_issues": 15,
                     "owner": "toniblyx",
                     "repo": "my-arsenal-of-aws-security-tools",
-                    "stars": 9533,
+                    "stars": 9536,
                     "topics": [
                       "auditing",
                       "aws-infrastructure",
@@ -1118,7 +1118,7 @@
                     "open_issues": 12,
                     "owner": "hardentools",
                     "repo": "hardentools",
-                    "stars": 3113,
+                    "stars": 3114,
                     "topics": [
                       "hardening",
                       "security",
@@ -1220,7 +1220,7 @@
                     "open_issues": 15,
                     "owner": "toniblyx",
                     "repo": "my-arsenal-of-aws-security-tools",
-                    "stars": 9533,
+                    "stars": 9536,
                     "topics": [
                       "auditing",
                       "aws-infrastructure",
@@ -1266,7 +1266,7 @@
             "language": null,
             "license": null,
             "last_commit": "2024-07-15T08:05:27Z",
-            "open_issues": 89,
+            "open_issues": 90,
             "owner": "fabacab",
             "repo": "awesome-cybersecurity-blueteam",
             "stars": 5643,
@@ -1297,10 +1297,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-07-25T12:15:45Z",
-                "open_issues": 159,
+                "open_issues": 161,
                 "owner": "enaqx",
                 "repo": "awesome-pentest",
-                "stars": 27682,
+                "stars": 27693,
                 "topics": [
                   "awesome",
                   "awesome-list"
@@ -1324,7 +1324,7 @@
                 "open_issues": 73,
                 "owner": "carpedm20",
                 "repo": "awesome-hacking",
-                "stars": 17468,
+                "stars": 17478,
                 "topics": [
                   "awesome",
                   "hacking"
@@ -1345,10 +1345,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-01-11T02:00:26Z",
-                "open_issues": 390,
+                "open_issues": 395,
                 "owner": "sbilly",
                 "repo": "awesome-security",
-                "stars": 15089,
+                "stars": 15093,
                 "topics": [
                   "awesome-list",
                   "security"
@@ -1372,7 +1372,7 @@
                 "open_issues": 25,
                 "owner": "rshipp",
                 "repo": "awesome-malware-analysis",
-                "stars": 14400,
+                "stars": 14403,
                 "topics": [
                   "analysis-framework",
                   "automated-analysis",
@@ -1413,7 +1413,7 @@
                 "open_issues": 73,
                 "owner": "apsdehal",
                 "repo": "awesome-ctf",
-                "stars": 11983,
+                "stars": 11984,
                 "topics": [
                   "awesome",
                   "ctf",
@@ -1436,10 +1436,10 @@
                 "language": null,
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-30T13:48:16Z",
-                "open_issues": 160,
+                "open_issues": 161,
                 "owner": "hslatman",
                 "repo": "awesome-threat-intelligence",
-                "stars": 10846,
+                "stars": 10849,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1465,7 +1465,7 @@
                 "open_issues": 34,
                 "owner": "paralax",
                 "repo": "awesome-honeypots",
-                "stars": 10653,
+                "stars": 10658,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1492,7 +1492,7 @@
                 "open_issues": 1,
                 "owner": "ashishb",
                 "repo": "android-security-awesome",
-                "stars": 9820,
+                "stars": 9822,
                 "topics": [
                   "android",
                   "awesome",
@@ -1516,10 +1516,10 @@
                 "language": null,
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-13T05:08:25Z",
-                "open_issues": 111,
+                "open_issues": 113,
                 "owner": "meirwah",
                 "repo": "awesome-incident-response",
-                "stars": 9554,
+                "stars": 9555,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1549,7 +1549,7 @@
                 "open_issues": 20,
                 "owner": "infoslack",
                 "repo": "awesome-web-hacking",
-                "stars": 7348,
+                "stars": 7350,
                 "topics": [
                   "appsec",
                   "hacking",
@@ -1581,10 +1581,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-01-05T12:27:34Z",
-                "open_issues": 68,
+                "open_issues": 69,
                 "owner": "0x4D31",
                 "repo": "awesome-threat-detection",
-                "stars": 4793,
+                "stars": 4794,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1613,7 +1613,7 @@
                 "open_issues": 1,
                 "owner": "joe-shenouda",
                 "repo": "awesome-cyber-skills",
-                "stars": 4782,
+                "stars": 4784,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:48:45.755Z"
@@ -1634,7 +1634,7 @@
                 "open_issues": 2,
                 "owner": "coreb1t",
                 "repo": "awesome-pentest-cheat-sheets",
-                "stars": 4396,
+                "stars": 4395,
                 "topics": [
                   "awesome",
                   "cheatsheet",
@@ -1663,7 +1663,7 @@
                 "open_issues": 4,
                 "owner": "pedramamini",
                 "repo": "awesome-yara",
-                "stars": 4317,
+                "stars": 4318,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1748,7 +1748,7 @@
                 "open_issues": 12,
                 "owner": "Friz-zy",
                 "repo": "awesome-linux-containers",
-                "stars": 2109,
+                "stars": 2110,
                 "topics": [
                   "awesome",
                   "best-practices",
@@ -1810,7 +1810,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T12:52:34.178Z",
+    "last_updated": "2026-11-11T12:00:28.464Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome security hardening guides, tools and other resources",
@@ -1819,10 +1819,10 @@
       "language": null,
       "license": null,
       "last_commit": "2026-09-22T20:30:20Z",
-      "open_issues": 136,
+      "open_issues": 138,
       "owner": "decalage2",
       "repo": "awesome-security-hardening",
-      "stars": 6602,
+      "stars": 6604,
       "topics": [
         "awesome-list",
         "best-practices",
