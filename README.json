@@ -21,7 +21,7 @@
                 "open_issues": 33,
                 "owner": "imthenachoman",
                 "repo": "How-To-Secure-A-Linux-Server",
-                "stars": 32083,
+                "stars": 32087,
                 "topics": [
                   "cc-by-sa",
                   "hardening",
@@ -51,7 +51,7 @@
                 "open_issues": 10,
                 "owner": "trimstray",
                 "repo": "the-practical-linux-hardening-guide",
-                "stars": 10925,
+                "stars": 10922,
                 "topics": [
                   "audit",
                   "centos",
@@ -165,7 +165,7 @@
                 "open_issues": 1,
                 "owner": "PaulSec",
                 "repo": "awesome-windows-domain-hardening",
-                "stars": 1806,
+                "stars": 1805,
                 "topics": [
                   "hardening",
                   "security",
@@ -190,7 +190,7 @@
                 "open_issues": 9,
                 "owner": "nsacyber",
                 "repo": "Event-Forwarding-Guidance",
-                "stars": 894,
+                "stars": 889,
                 "topics": [
                   "event-log",
                   "siem",
@@ -215,7 +215,7 @@
                 "open_issues": 3,
                 "owner": "nsacyber",
                 "repo": "AppLocker-Guidance",
-                "stars": 253,
+                "stars": 252,
                 "topics": [
                   "application-whitelisting",
                   "applocker",
@@ -267,7 +267,7 @@
                 "open_issues": 0,
                 "owner": "nsacyber",
                 "repo": "BitLocker-Guidance",
-                "stars": 130,
+                "stars": 129,
                 "topics": [
                   "audit",
                   "bitlocker",
@@ -383,7 +383,7 @@
                 "open_issues": 13,
                 "owner": "nsacyber",
                 "repo": "Hardware-and-Firmware-Security-Guidance",
-                "stars": 893,
+                "stars": 892,
                 "topics": [
                   "audit",
                   "cve",
@@ -434,7 +434,7 @@
                     "open_issues": 13,
                     "owner": "nuver-labs",
                     "repo": "vps-audit",
-                    "stars": 3306,
+                    "stars": 3309,
                     "topics": [
                       "auditi",
                       "bash",
@@ -475,7 +475,7 @@
                     "open_issues": 1,
                     "owner": "TH3xACE",
                     "repo": "SUDO_KILLER",
-                    "stars": 2496,
+                    "stars": 2495,
                     "topics": [
                       "abuse-sudo",
                       "ctf",
@@ -540,7 +540,7 @@
                     "open_issues": 4,
                     "owner": "trimstray",
                     "repo": "otseca",
-                    "stars": 524,
+                    "stars": 523,
                     "topics": [
                       "auditing",
                       "cybersecurity",
@@ -767,7 +767,7 @@
                     "open_issues": 33,
                     "owner": "nabla-c0d3",
                     "repo": "sslyze",
-                    "stars": 3800,
+                    "stars": 3799,
                     "topics": [
                       "heartbleed",
                       "library",
@@ -890,7 +890,7 @@
                     "open_issues": 29,
                     "owner": "arthepsy",
                     "repo": "ssh-audit",
-                    "stars": 2991,
+                    "stars": 2990,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:48:45.755Z"
@@ -982,7 +982,7 @@
                     "id": 221727517,
                     "language": "Shell",
                     "license": "BSD-2-Clause",
-                    "last_commit": "2026-06-05T13:40:26Z",
+                    "last_commit": "2026-11-19T16:31:49Z",
                     "open_issues": 0,
                     "owner": "ANSSI-FR",
                     "repo": "chipsec-check",
@@ -1046,7 +1046,7 @@
                     "open_issues": 15,
                     "owner": "toniblyx",
                     "repo": "my-arsenal-of-aws-security-tools",
-                    "stars": 9538,
+                    "stars": 9539,
                     "topics": [
                       "auditing",
                       "aws-infrastructure",
@@ -1131,7 +1131,7 @@
                     "open_issues": 37,
                     "owner": "Disassembler0",
                     "repo": "Win10-Initial-Setup-Script",
-                    "stars": 4631,
+                    "stars": 4629,
                     "topics": [
                       "powershell",
                       "sysadmin",
@@ -1160,7 +1160,7 @@
                     "open_issues": 12,
                     "owner": "hardentools",
                     "repo": "hardentools",
-                    "stars": 3110,
+                    "stars": 3108,
                     "topics": [
                       "hardening",
                       "security",
@@ -1262,7 +1262,7 @@
                     "open_issues": 15,
                     "owner": "toniblyx",
                     "repo": "my-arsenal-of-aws-security-tools",
-                    "stars": 9538,
+                    "stars": 9539,
                     "topics": [
                       "auditing",
                       "aws-infrastructure",
@@ -1308,10 +1308,10 @@
             "language": null,
             "license": null,
             "last_commit": "2024-07-15T08:05:27Z",
-            "open_issues": 91,
+            "open_issues": 93,
             "owner": "fabacab",
             "repo": "awesome-cybersecurity-blueteam",
-            "stars": 5668,
+            "stars": 5667,
             "topics": [
               "awesome-list",
               "blue-team",
@@ -1339,10 +1339,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-07-25T12:15:45Z",
-                "open_issues": 172,
+                "open_issues": 173,
                 "owner": "enaqx",
                 "repo": "awesome-pentest",
-                "stars": 27791,
+                "stars": 27804,
                 "topics": [
                   "awesome",
                   "awesome-list"
@@ -1366,7 +1366,7 @@
                 "open_issues": 72,
                 "owner": "carpedm20",
                 "repo": "awesome-hacking",
-                "stars": 17541,
+                "stars": 17549,
                 "topics": [
                   "awesome",
                   "hacking"
@@ -1387,10 +1387,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-01-11T02:00:26Z",
-                "open_issues": 406,
+                "open_issues": 411,
                 "owner": "sbilly",
                 "repo": "awesome-security",
-                "stars": 15130,
+                "stars": 15134,
                 "topics": [
                   "awesome-list",
                   "security"
@@ -1414,7 +1414,7 @@
                 "open_issues": 25,
                 "owner": "rshipp",
                 "repo": "awesome-malware-analysis",
-                "stars": 14439,
+                "stars": 14445,
                 "topics": [
                   "analysis-framework",
                   "automated-analysis",
@@ -1455,7 +1455,7 @@
                 "open_issues": 73,
                 "owner": "apsdehal",
                 "repo": "awesome-ctf",
-                "stars": 12011,
+                "stars": 12010,
                 "topics": [
                   "awesome",
                   "ctf",
@@ -1478,10 +1478,10 @@
                 "language": null,
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-30T13:48:16Z",
-                "open_issues": 169,
+                "open_issues": 168,
                 "owner": "hslatman",
                 "repo": "awesome-threat-intelligence",
-                "stars": 10877,
+                "stars": 10879,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1507,7 +1507,7 @@
                 "open_issues": 37,
                 "owner": "paralax",
                 "repo": "awesome-honeypots",
-                "stars": 10677,
+                "stars": 10679,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1561,7 +1561,7 @@
                 "open_issues": 122,
                 "owner": "meirwah",
                 "repo": "awesome-incident-response",
-                "stars": 9585,
+                "stars": 9586,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1591,7 +1591,7 @@
                 "open_issues": 23,
                 "owner": "infoslack",
                 "repo": "awesome-web-hacking",
-                "stars": 7362,
+                "stars": 7364,
                 "topics": [
                   "appsec",
                   "hacking",
@@ -1612,35 +1612,6 @@
             },
             {
               "node_type": "item",
-              "title": "Awesome Threat Detection and Hunting",
-              "description": "A curated list of awesome threat detection and hunting resources.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "✨ A curated list of awesome threat detection and hunting resources 🕵️‍♂️",
-                "homepage": "https://0x4d31.github.io/awesome-threat-detection/",
-                "id": 117328645,
-                "language": null,
-                "license": null,
-                "last_commit": "2026-01-05T12:27:34Z",
-                "open_issues": 70,
-                "owner": "0x4D31",
-                "repo": "awesome-threat-detection",
-                "stars": 4803,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "detection",
-                  "incident-response",
-                  "security",
-                  "threat-detection",
-                  "threat-hunting"
-                ]
-              },
-              "first_seen": "2026-08-28T16:48:45.755Z"
-            },
-            {
-              "node_type": "item",
               "title": "Awesome Cyber Skills",
               "description": "A curated list of hacking environments where you can train your cyber skills legally and safely.",
               "children": [],
@@ -1655,8 +1626,37 @@
                 "open_issues": 1,
                 "owner": "joe-shenouda",
                 "repo": "awesome-cyber-skills",
-                "stars": 4799,
+                "stars": 4803,
                 "topics": []
+              },
+              "first_seen": "2026-08-28T16:48:45.755Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Threat Detection and Hunting",
+              "description": "A curated list of awesome threat detection and hunting resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "✨ A curated list of awesome threat detection and hunting resources 🕵️‍♂️",
+                "homepage": "https://0x4d31.github.io/awesome-threat-detection/",
+                "id": 117328645,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-01-05T12:27:34Z",
+                "open_issues": 71,
+                "owner": "0x4D31",
+                "repo": "awesome-threat-detection",
+                "stars": 4803,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "detection",
+                  "incident-response",
+                  "security",
+                  "threat-detection",
+                  "threat-hunting"
+                ]
               },
               "first_seen": "2026-08-28T16:48:45.755Z"
             },
@@ -1676,7 +1676,7 @@
                 "open_issues": 2,
                 "owner": "coreb1t",
                 "repo": "awesome-pentest-cheat-sheets",
-                "stars": 4398,
+                "stars": 4396,
                 "topics": [
                   "awesome",
                   "cheatsheet",
@@ -1741,36 +1741,8 @@
                 "open_issues": 16,
                 "owner": "caesar0301",
                 "repo": "awesome-pcaptools",
-                "stars": 3442,
+                "stars": 3440,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T16:48:45.755Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Awesome Crypto Papers",
-              "description": "A curated list of cryptography papers, articles, tutorials and howtos.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A curated list of cryptography papers, articles, tutorials and howtos.",
-                "homepage": null,
-                "id": 82925053,
-                "language": null,
-                "license": "NOASSERTION",
-                "last_commit": "2024-10-17T18:13:08Z",
-                "open_issues": 4,
-                "owner": "pFarb",
-                "repo": "awesome-crypto-papers",
-                "stars": 2113,
-                "topics": [
-                  "applied-cryptography",
-                  "awesome",
-                  "awesome-list",
-                  "awesome-lists",
-                  "cryptography",
-                  "howto"
-                ]
               },
               "first_seen": "2026-08-28T16:48:45.755Z"
             },
@@ -1796,6 +1768,34 @@
                   "best-practices",
                   "containers",
                   "linux-containers"
+                ]
+              },
+              "first_seen": "2026-08-28T16:48:45.755Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Crypto Papers",
+              "description": "A curated list of cryptography papers, articles, tutorials and howtos.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A curated list of cryptography papers, articles, tutorials and howtos.",
+                "homepage": null,
+                "id": 82925053,
+                "language": null,
+                "license": "NOASSERTION",
+                "last_commit": "2024-10-17T18:13:08Z",
+                "open_issues": 4,
+                "owner": "pFarb",
+                "repo": "awesome-crypto-papers",
+                "stars": 2111,
+                "topics": [
+                  "applied-cryptography",
+                  "awesome",
+                  "awesome-list",
+                  "awesome-lists",
+                  "cryptography",
+                  "howto"
                 ]
               },
               "first_seen": "2026-08-28T16:48:45.755Z"
@@ -1852,7 +1852,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T13:42:00.463Z",
+    "last_updated": "2026-11-20T13:24:51.344Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome security hardening guides, tools and other resources",
@@ -1861,10 +1861,10 @@
       "language": null,
       "license": null,
       "last_commit": "2026-11-14T09:56:01Z",
-      "open_issues": 142,
+      "open_issues": 143,
       "owner": "decalage2",
       "repo": "awesome-security-hardening",
-      "stars": 6619,
+      "stars": 6618,
       "topics": [
         "awesome-list",
         "best-practices",
